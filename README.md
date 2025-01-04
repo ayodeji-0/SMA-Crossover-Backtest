@@ -1,7 +1,8 @@
-# SMA-Backtest
+# SMA-Crossover-Backtest
 
  Backtesting a simple EMA crossover strategy on an indexed crypto portfolio over multiple time frames.
- Benchmark Strat is buy and hold index over the same period. See tearsheet document for comparison with benchmark over 2Y timeframe.
+ Buy when 9 day ema is higher than 21 day and sell otherwise.
+ Benchmark Strat is simple buy and hold index over the same period. See tearsheet document for comparison with benchmark over 2Y timeframe.
 
 Indexed Portfolio - BTC: 0.5, MSOL: 0.15, ADA: 0.1, AVAX: 0.1, XRP: 0.05
 
